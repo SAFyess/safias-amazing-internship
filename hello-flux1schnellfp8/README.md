@@ -1,4 +1,4 @@
-# flux1devfp8 
+# flux1schnellfp8
 
 Created by: `Black Forest Labs`
 

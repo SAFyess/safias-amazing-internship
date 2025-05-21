@@ -1,7 +1,7 @@
 {
-  "name": "hello-llama",
+  "name": "hello-llama-v3p1-70b-instruct",
   "version": "0.0.1",
-  "description": "Testing llama agent",
+  "description": "Testing llama-v3p1-70b-instruct agent",
   "category": "agent",
   "tags": [],
   "details": {
