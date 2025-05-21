@@ -1,0 +1,16 @@
+{
+  "name": "hello-qwen2p5_72binstruct",
+  "version": "0.0.1",
+  "description": "Testing qwen2p5_72binstruct agent",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "qwen2p5_72binstruct",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}

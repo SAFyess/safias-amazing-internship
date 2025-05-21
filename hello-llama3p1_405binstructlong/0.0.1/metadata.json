@@ -1,0 +1,16 @@
+{
+  "name": "hello-llama3p1_405binstructlong",
+  "version": "0.0.1",
+  "description": "Testing llama3p1_405binstructlong agent",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "llama3p1_405binstructlong",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}

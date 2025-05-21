@@ -1,0 +1,16 @@
+{
+  "name": "hello-r1_1776",
+  "version": "0.0.1",
+  "description": "Testing r1_1776 agent",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "r1_1776",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}

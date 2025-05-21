@@ -1,0 +1,16 @@
+{
+  "name": "hello-flux1schnellfp8",
+  "version": "0.0.1",
+  "description": "Testing flux1schnellfp8 agent",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "flux1schnellfp8",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}

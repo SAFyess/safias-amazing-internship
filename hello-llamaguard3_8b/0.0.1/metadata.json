@@ -1,0 +1,16 @@
+{
+  "name": "hello-llamaguard3_8b",
+  "version": "0.0.1",
+  "description": "Testing llamaguard3_8b",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "llamaguard3_8b",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}
