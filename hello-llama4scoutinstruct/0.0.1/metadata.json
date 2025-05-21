@@ -1,0 +1,16 @@
+{
+  "name": "hello-llama4scoutinstruct",
+  "version": "0.0.1",
+  "description": "Testing llama4scoutinstruct agent",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "llama4scoutinstructbasic",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}

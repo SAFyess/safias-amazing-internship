@@ -1,0 +1,16 @@
+{
+  "name": "hello-srlfinetune0417",
+  "version": "0.0.1",
+  "description": "Testing srlfinetune0417 agent",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "srlfinetune0417debug",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}

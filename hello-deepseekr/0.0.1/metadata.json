@@ -1,0 +1,16 @@
+{
+  "name": "hello-deepseekr",
+  "version": "0.0.1",
+  "description": "Testing deepseekr1 agent",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "deepseekr1",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}

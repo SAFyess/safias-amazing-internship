@@ -1,0 +1,16 @@
+{
+  "name": "hello-firesearchocr",
+  "version": "0.0.1",
+  "description": "Testing firesearchocr agent",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "firesearchocr6",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}

@@ -1,0 +1,16 @@
+{
+  "name": "hello-qwen2p5vl32binstruc",
+  "version": "0.0.1",
+  "description": "Testing qwen2p5vl32binstruc agent",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "qwen2p5vl32binstruct",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}

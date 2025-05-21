@@ -1,0 +1,16 @@
+{
+  "name": "hello-qwq32b",
+  "version": "0.0.1",
+  "description": "Testing qwq32b agent",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "qwq32b",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}
