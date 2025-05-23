@@ -1,13 +1,13 @@
 {
-  "name": "hello-deepseek3_0324",
+  "name": "hello-flux1devfp8 ",
   "version": "0.0.1",
-  "description": "Testing deepseek3_032 agent",
+  "description": "Testing flux1devfp8  agent",
   "category": "agent",
   "tags": [],
   "details": {
     "agent": {
       "defaults": {
-        "model": "deepseek3_0324",
+        "model": "flux1devfp8",
         "model_provider": "fireworks"
       }
     }

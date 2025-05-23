@@ -1,13 +1,13 @@
 {
-  "name": "hello-llama",
+  "name": "hello-qwen3_235ba2",
   "version": "0.0.1",
-  "description": "Testing llama agent",
+  "description": "Testing qwen3_235ba2 agent",
   "category": "agent",
   "tags": [],
   "details": {
     "agent": {
       "defaults": {
-        "model": "llama-v3p1-70b-instruct",
+        "model": "qwen3_235ba2",
         "model_provider": "fireworks"
       }
     }

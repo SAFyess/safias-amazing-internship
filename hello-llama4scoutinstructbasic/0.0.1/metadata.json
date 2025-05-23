@@ -1,7 +1,7 @@
 {
-  "name": "hello-llama4scoutinstruct",
+  "name": "hello-llama4scoutinstructbasic",
   "version": "0.0.1",
-  "description": "Testing llama4scoutinstruct agent",
+  "description": "Testing llama4scoutinstructbasic agent",
   "category": "agent",
   "tags": [],
   "details": {

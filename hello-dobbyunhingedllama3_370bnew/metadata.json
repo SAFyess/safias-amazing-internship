@@ -1,13 +1,13 @@
 {
-  "name": "hello-deepseek3_0324",
+  "name": "hello-hello-dobbyunhingedllama3_370bnew",
   "version": "0.0.1",
-  "description": "Testing deepseek3_032 agent",
+  "description": "Testing dobbyunhingedllama3_370bnew agent",
   "category": "agent",
   "tags": [],
   "details": {
     "agent": {
       "defaults": {
-        "model": "deepseek3_0324",
+        "model": "dobbyunhingedllama3_370bnew",
         "model_provider": "fireworks"
       }
     }

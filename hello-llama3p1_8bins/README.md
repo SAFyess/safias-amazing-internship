@@ -1,4 +1,4 @@
-# llama3p1_405binstruct
+# llama3p1_8bins
 
 Created by: `Meta`
 

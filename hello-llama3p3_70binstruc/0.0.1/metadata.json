@@ -1,7 +1,7 @@
 {
-  "name": "hello-llama3p3_70binstruc",
+  "name": "hello-llama3p3_70binstruct",
   "version": "0.0.1",
-  "description": "Testing llama3p3_70binstruc agent",
+  "description": "Testing llama3p3_70binstruct agent",
   "category": "agent",
   "tags": [],
   "details": {
