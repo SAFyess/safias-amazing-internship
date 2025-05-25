@@ -4,6 +4,8 @@ Created by: `Deepseek`
 
 I asked the model `What are you capable of doing?` and it replied:
 
+
+```md
 Assistant: As a friendly AI, I can assist with a variety of tasks and provide helpful information! Here’s what I’m capable of:
 
 1. **Answering Questions**
@@ -36,3 +38,4 @@ Assistant: As a friendly AI, I can assist with a variety of tasks and provide he
 8. **Entertainment**
    - Recommend books, movies, or games.
    - Share interesting facts, trivia, or fun stories.
+```

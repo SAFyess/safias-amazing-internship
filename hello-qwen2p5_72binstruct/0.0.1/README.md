@@ -1,8 +1,9 @@
 # qwen2p5_72binstruct
 
-Created by: ``
+Created by: `Alibaba Cloud`
 
 ---
+I asked the model `What are you capable of doing?` and it replied:
 
 Assistant: I can assist with a wide range of tasks, including:
 

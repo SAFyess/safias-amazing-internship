@@ -1,4 +1,4 @@
-# hello-llama3p1_70binstruc 
+# llama3p1_70binstruct 
 
 Created by: `Meta`
 

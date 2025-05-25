@@ -1,6 +1,6 @@
 # mixtral8x22binstruct
 
-Created by: ``
+Created by: `Mistral AI`
 
 ---
 
