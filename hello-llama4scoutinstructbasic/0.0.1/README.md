@@ -33,3 +33,69 @@ Assistant: Hello! I'm an AI designed to assist and communicate with users in a h
 10. **Brainstorming**: I can assist with idea generation, helping you explore new concepts or solve problems.
 
 These are just a few examples of what I can do. If you have a specific task or question in mind, feel free to ask me, and I'll do my best to help!
+
+
+**I asked in english the bot for advices about my futur trip in London, and here is what it replied:**
+---
+Assistant: London, the vibrant city!
+
+Given your 3-day trip to London, I'd be delighted to help you plan your itinerary.
+
+Don't worry about your dietary restrictions; London has plenty of delicious options for vegetarians and vegans. Here are some recommendations:
+
+**Vegetarian and Vegan Options:**
+
+1. **Purezza**: A popular vegan Italian restaurant with several locations in London. Try their vegan pizzas, pasta, and risottos.
+2. **Mildreds**: A well-known vegetarian and vegan restaurant in Soho, offering a variety of international dishes.
+3. **The Gate**: A chain of vegetarian and vegan restaurants with several locations in London, serving breakfast, lunch, and dinner options.
+4. **Dishoom**: A popular Indian restaurant with several locations, offering a variety of vegetarian and vegan options, including their famous black daal.
+
+Now, let's plan your morning itinerary!
+
+**Morning Attractions:**
+
+For a 3-day trip, I'd recommend visiting some of London's iconic landmarks and popular attractions. Here are a few suggestions for the morning:
+
+Day 1:
+Start your day at **Buckingham Palace** (open from 9:30 am). Watch the Changing of the Guard ceremony, and then take a stroll through **St. James's Park**, one of London's oldest and most beautiful parks.
+
+Day 2:
+Visit the **British Museum** (open from 10 am), one of the world's greatest museums, featuring a vast collection of artifacts from ancient civilizations.
+
+Day 3:
+Explore **Trafalgar Square** and visit the **National Gallery** (open from 10 am), which houses a world-class collection of Western European art, including works by Van Gogh, Monet, and Leonardo da Vinci.
+
+Which of these options appeals to you? Or would you like me to suggest more attractions?
+
+
+*Then I asked in Darija for my trip in Rabat and it replied:*
+
+Assistant: Khir ghir 3 ayyam, machakil. 
+
+Kayfa halak?
+
+Tsayhini tzamani w hiya ghadira?
+
+Sbah n9dar nzur ghir chi haja w tsayhini tzour.
+
+Wakha lir maktaba l’agent safar, katsaaedak f trip l Rabat.
+
+Ghadira ntayhi tizmili w hiya ghir 3 ayyam.
+
+Khir ghadira tatchofi 3imara w takhdi tsour w tatchofi lhbu w takhdi nwor.
+
+Kayfa tzour?
+
+Tzour w tsayhini tatchofi ghir chi haja.
+
+Khir l’agent safar katsaaedak f trip l Rabat.
+
+Ghadira tatchofi 3imara w hiya ghadira.
+
+Wakha lir maktaba, katsaaedak ghir chi haja.
+
+Tsayhini tatchofi w hiya ghadira.
+
+Sbahi n9dar nzor w hiya ghadira.
+
+Wakha lir, kayfa halak?

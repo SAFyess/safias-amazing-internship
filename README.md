@@ -7,7 +7,7 @@ This repository records all of the work I did on my internship at NEAR DevHub in
 - `19 May`: Install python 3.11 and `nearai`. Learn about different LLM models
 - `20 May`: Create the first AI agents with `deepseek`, `llama` and other models
 - `21 May`: Learn a bit about `github`, and keep creating agents 
-- `23 May`: Finished testing models, mdels that didn't work:
+- `23 May`: Finished testing models, mdels that didn't work: dobbyunhingedllama3_370bnew, flux1devfp8, flux1schnellfp8, llamaguard3_8b, qwen3_235ba2, r1_1776, srlfinetune0417debug
 
 
 ## Tasks
