@@ -29,7 +29,6 @@ Great question! As an AI assistant, I’m here to help with a wide range of task
 
 **Note**: I avoid harmful content, can’t access personal data, and always aim to be honest about my limitations. Let me know what you need—I’m here to help! 😊
 
-
 ___
 
 **I asked in english the bot for advices about my futur trip in London, and here is what it replied:**
