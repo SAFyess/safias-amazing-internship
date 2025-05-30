@@ -260,3 +260,93 @@ Assistant:
 - Bargain for vintage treasures in **Derb El Caid** neighborhood.
 
 Marrakech blends history and vibrancy—enjoy the chaos of the souks, the calm of the gardens, and the majesty of the Atlas peaks! 🌿🌄
+
+___
+I asked the `tourist-agency`model what can I do for 3 days in `Tanjer` and it replied:
+
+Assistant: 
+
+It sounds like you might be referring to **Tangier (Tanger)**, a beautiful coastal city in northern Morocco! Known for its blend of cultures, stunning coastlines, and gateway status to Africa from Europe (just across the Strait of Gibraltar), Tangier offers a mix of history, art, and natural beauty. Here’s a curated list of things to do and see:
+
+
+
+### 🏛️ **Historical & Cultural Highlights**
+1. **Explore the Medina (Old Town):**
+   Wander the narrow alleys of the medina, where you’ll find traditional riads, tiny cafes, and the Grand Socco market. Don’t miss the **Kasbah Museum** (Dar el-Makhzen) and the bustling **Sour Jdid Gate**.
+
+2. **Visit the American Legation Institute:**
+   A unique US National Historic Landmark in the medina, celebrating the long-standing Morocco-US relations. It has exhibits on Moroccan art, history, and culture.  
+
+3. **St. Andrew’s Anglican Church:**
+   A stunning Byzantine-style church built in 1880, blending Roman and Arab architecture.
+
+4. **Villa Harris (Dar Harris):**
+   A restored Andalusian villa showcasing traditional Moroccan craftsmanship, art, and a lush garden.
+
+
+
+### 🌅 **Scenic Spots & Nature**
+1. **Cap Spartel + Hercules Cave:**
+   Tour the iconic **Cap Spartel Lighthouse**, perched at the tip of Cape Spartel where the Atlantic and Mediterranean meet. Nearby, the **Caves of Hercules** (Grotte d’Hercule) offer panoramic views and legends of Hercules resting here before his labors.
+
+2. **Cap Malabata (Plage Malabata):**
+   A relaxed beach area with a fortress (Castillo de la Luz) and seafood restaurants overlooking the water.
+
+3. **Tangier Municipal Park (Parc Perdicaris):**
+   A lush urban park with pathways, gardens, and views of the strait. Great for a stroll or picnic.
+
+4. **Cap Hafir (Cap Hafner):**
+   A cliffside viewpoint with Instagram-worthy vistas of the coastline and islands.
+
+
+
+### 🖼️ **Art & Creativity**
+- **Minzah Square & Ville Nouvelle:**
+  The heart of the modern city, lined with cafés, shops, and colonial architecture. Check out the **Art Deco buildings** from Tangier’s “golden age” as an international hub for writers and artists (like Paul Bowles, Tennessee Williams, and the Rolling Stones).
+
+- **Museum of Moroccan Arts (Dar Othmane):**
+  Located in a 17th-century palace, showcasing Moroccan art, textiles, and artifacts.
+
+
+
+### 🌊 **Beaches & Water Adventures**
+- **Playa de Sailetta:**
+  A peaceful beach near Cap Spartel, perfect for sunset swimming.
+- **Plage de Cap Malabata:**
+  A mix of sand and rock, popular with locals and surfers.
+- **Take a Ferry to Spain:**
+  Hop on a short ferry ride to Tarifa (Spain) or Ceuta for a quick European adventure.
+- **Learn to Surf:**
+  Nearby beaches like **Cabarete Plage** cater to surfers of all levels.
+
+
+
+### 🍉 **Food & Drink**
+- **Tagine, Pastilla & Harira Soup:**
+  Try these Moroccan classics at local restaurants like **Dar Essafran** or **Le Salon Bleu**.
+- **Tea at a Café Hafa:**
+  Sip mint tea in a traditional *salon de thé* like **Café Hafa** or **Dar Dana**, with views over the strait.
+- **Diego’s Bar:**
+  The legendary bar co-owned by the Rolling Stones, serving creative cocktails and 1960s vibes.
+
+
+
+### 🛍️ **Shopping & Day Trips**
+- **Kasbah Souk:**
+  Bargain for spices, ceramics, and leather goods in the medina’s market.
+- **Day Trip to Chefchaouen (Blue City):**
+  3-hour drive to the famous blue-painted town nestled in the Rif Mountains.
+- **Asilah (2 hrs):**
+  A coastal town with vibrant murals, Portuguese ruins, and artist workshops.
+
+
+
+### 📝 **Tips for Visitors**
+- **Best Time to Visit:** April–May or September–October for mild weather. Winters are cool and rainy; summers can get hot but breezy.
+- **Getting Around:** Use grand taxis (shared rides) or apps like Yassir for shorter trips. Rent a car for day trips.
+- **Language:** Arabic and French are widely spoken; English is common in tourist areas.
+- **Dress Modestly:** Especially in the medina, opt for lightweight clothing that covers shoulders and knees.
+
+
+
+Tangier is a hidden gem where Europe meets Africa—it’s easy to see why writers and artists have been drawn here for centuries! Let me know if you’d like help planning a full itinerary, finding accommodations, or discovering off-the-beaten-path spots. 🌍✨
