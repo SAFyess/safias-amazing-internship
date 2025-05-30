@@ -1,7 +1,7 @@
 # Tourist Agency 
 
 I asked the `tourist-agency`model what can I do for 3 days in `Tetouan` and it replied:
-___
+
 ### **3-Day Itinerary for Tetouan, Morocco**
 
 #### **Day 1: Explore Tetouan’s Historical Medina**
@@ -16,7 +16,7 @@ Tetouan is the only city in Morocco with a *Moorish-Andalusian medina* (UNESCO-l
 
 **Evening**: Dine at **Patisserie Bouhofine** (local pastries) or a rooftop restaurant in the medina for pastilla and mint tea. End with sunset views from the **Spanish Quarter (Villa San Miguel)**.
 
----
+
 
 #### **Day 2: Day Trip to Chefchaouen (The Blue City)**
 Chefchaouen is **1 hour by car** from Tetouan. Use private transport or a shared taxi.
@@ -27,7 +27,7 @@ Chefchaouen is **1 hour by car** from Tetouan. Use private transport or a shared
 
 **Optional Alternative**: If you have more time, visit **Hoceima National Park** (2+ hours from Tetouan) for mountain landscapes and hiking trails, but Chefchaouen is more accessible for a day trip.
 
----
+
 
 #### **Day 3: Nature & Local Culture**
 Choose between a coastal or mountain escape based on your interests:
@@ -44,7 +44,7 @@ Choose between a coastal or mountain escape based on your interests:
 - **Take a Cooking Class**: Learn to make Moroccan dishes like pastilla or harira at a local kitchen (e.g., **Tetouan Cultural Center**).
 - **Shopping**: Buy argan oil, handicrafts, or traditional thob (long dresses) at Souk El Had.
 
----
+
 
 ### **Pro Tips**
 - **Transport**: Use taxis/rental cars (book in advance for day trips). Shared taxis (grand taxi) to Chefchaouen cost ~60–80 MAD per person.
@@ -57,15 +57,15 @@ Choose between a coastal or mountain escape based on your interests:
 
 Enjoy your adventure in Tetouan’s mix of culture, history, and breathtaking landscapes! 🍮🌄
 
-
+___
 
 I asked the `tourist-agency`model what can I do for 3 days in `Rabat` and it replied:
-___
+
 Assistant: 
 
 Here's a well-rounded 3-day itinerary for Rabat, Morocco’s charming capital, balancing culture, history, and leisure. Each day is structured with morning, afternoon, and evening plans, ensuring a mix of must-see sights and relaxed experiences.
 
----
+
 
 ### **Day 1: Iconic Sights & Seaside Strolls**
 **🌞 Morning: Hassan Tower & Mohammed V Mausoleum**
@@ -82,7 +82,7 @@ Here's a well-rounded 3-day itinerary for Rabat, Morocco’s charming capital, b
 **🌙 Evening: Dinner by the Sea**
 - Dine at **Restaurant Tnaq Tnaq** or **Le Diapason** for fresh seafood and Atlantic views.
 
----
+
 
 ### **Day 2: Old Medina & Coastal Charms**
 **🌄 Morning: Kasbah of the Udayas & Rue des Consuls**
@@ -100,7 +100,7 @@ Here's a well-rounded 3-day itinerary for Rabat, Morocco’s charming capital, b
 - Unwind at the **Andalusian Gardens**, a peaceful spot with orange groves and fountains.
 - Watch sunset from **Hammam Lalla** or the **Promenade de la Corniche** beach walk.
 
----
+
 
 ### **Day 3: Culture & Coastal Escape**
 **🖼️ Morning: Mohammed VI Museum & Ville Nouvelle**
@@ -118,7 +118,7 @@ Here's a well-rounded 3-day itinerary for Rabat, Morocco’s charming capital, b
 - Browse **Marché Central** for spices, argan oil, or a quick henna tattoo.
 - End with traditional lamb or chicken tagine at **Nest at Atay Café**, housed in a renovated teahouse with live Moroccan music.
 
----
+
 
 ### **Tips for Your Trip:**
 - **Getting Around**: Use taxis (cheap and efficient) or walk if staying near the medina/Udayas.
@@ -130,10 +130,10 @@ Here's a well-rounded 3-day itinerary for Rabat, Morocco’s charming capital, b
 Enjoy Rabat’s blend of history and ocean breezes! 🌊✨ Let me know if you need adjustments or day trips (Meknes/Chefchaouen are nearby)
 
 
-
+___
 
 I asked the `tourist-agency`model what can I do for 3 days in `Zagora` and it replied:
-___
+
 Assistant: 
 
 **3-Day Travel Guide to Zagora, Morocco: Desert Adventures & Cultural Insights**
@@ -141,7 +141,7 @@ Assistant:
 **Overview:**
 Zagora, nestled at the edge of the Sahara Desert in Morocco, is renowned for its golden dunes, ancient kasbahs, and the iconic "52 Days to Timbuktu" sign. This itinerary blends desert excursions, cultural exploration, and scenic beauty, tailored for a 3-day visit.
 
----
+
 
 **Day 1: Arrival & Exploring Zagora’s Heart**
 *Morning:*
@@ -156,7 +156,7 @@ Zagora, nestled at the edge of the Sahara Desert in Morocco, is renowned for its
 - **Sunset at Adrar n Imini**: Hike or drive to this nearby hill (15 mins) for panoramic views of the desert and valley.
 - **Overnight Stay**: Relax at a desert-themed guesthouse or hotel in Zagora, like *Dar Chamma*.
 
----
+
 
 **Day 2: Sahara Desert Excursion**
 *Full Day (Optional Overnight):*
@@ -168,7 +168,7 @@ Zagora, nestled at the edge of the Sahara Desert in Morocco, is renowned for its
 
 *Tip*: Book tours locally (from 400–600 DH/day) or via your accommodation. Choose 4x4 for ease (camels are bumpy).
 
----
+
 
 **Day 3: Draa Valley & Historical Highlights**
 *Morning:*
@@ -181,7 +181,7 @@ Zagora, nestled at the edge of the Sahara Desert in Morocco, is renowned for its
 
 *Return to Zagora (or onward to Marrakech/Fes)*: Wrap up your trip with a scenic drive.
 
----
+
 
 **Travel Tips for Zagora:**
 1. **Best Time to Visit**: October–April (pleasant temperatures). Avoid July–August heat.
@@ -190,7 +190,7 @@ Zagora, nestled at the edge of the Sahara Desert in Morocco, is renowned for its
 4. **Local Cuisine**: Sip mint tea at *TeaTime Café* and try msemen (fried pancake) at a local bakery.
 5. **Shopping**: Buy handmade Berber rugs or pottery at Zagora’s weekly souk (usually Wednesday or Saturday).
 
----
+
 
 **Sample Itinerary Template:**
 - **Day 1**: Timbuktu Sign → Kasbah Amridil → Sunset + Local Dinner.
@@ -199,10 +199,10 @@ Zagora, nestled at the edge of the Sahara Desert in Morocco, is renowned for its
 
 Zagora offers a blend of adventure and tranquility, perfect for travelers craving desert magic and a dive into Moroccan history. Enjoy the timeless charm! 🌵✨ 
 
-
+___
 
 I asked the `tourist-agency`model what can I do for 3 days in `Marrakech` and it replied:
-___
+
 Assistant: 
 
 **3-Day Marrakech Itinerary: A Mix of Culture, Cuisine, and Scenery**
@@ -218,7 +218,7 @@ Assistant:
 - **Djemaa el-Fnaa Square at Sunset**: Immerse in the bustling square—watch snake charmers, try street food (kebabs, msemen, or orange juice stalls), and enjoy mint tea at a rooftop café like **Café Argana**.
 **Stay**: Riad in the medina for a traditional vibe.
 
----
+
 
 ### **Day 2: Gardens, Palaces & Sunset**
 **Morning**:
@@ -232,7 +232,7 @@ Assistant:
 - **Menara Gardens & Pavilion**: Watch sunset over the 12th-century pavilion reflecting in the large olive-lake.
 - **Dinner**: Head to **Nomad** (modern Moroccan in a rooftop setting) or **Al Borj** (panoramic views and traditional dishes).
 
----
+
 
 ### **Day 3: Atlas Mountains & Adventure**
 **Full Day** **Atlas Mountains Mini-Tour**:
@@ -246,7 +246,7 @@ Assistant:
 **Evening**:
 - **Riad Relaxation**: Return to your riad for a hammam or rooftop stargazing.
 
----
+
 
 ### **Pro Tips**:
 - **Transport**: Use taxis (negotiate rates) or apps like **Careem**. **Avoid taxis over €10** for short trips in town.
