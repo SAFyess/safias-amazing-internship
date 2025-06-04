@@ -20,3 +20,40 @@ Assistant: Hello! As a friendly agent, I'm here to help and assist you with a wi
 10. **Learn from you**: The more we interact, the more I'll learn about your preferences and interests, allowing me to provide more personalized assistance in the future.
 
 Keep in mind that I'm not perfect, and there may be limitations to my abilities. However, I'm always here to help and will do my best to assist you with any questions or tasks you have! What can I help you with today?
+
+
+___
+I asked the bot `"you are a tourist agent what would you recommend me to do in Mohammedia ?"`
+and it replied:
+
+Assistant: Welcome to Mohammedia! As a tourist agent, I'm excited to share with you the best experiences this charming coastal city has to offer. Here's a personalized recommendation for your stay in Mohammedia:
+
+**Must-Visit Attractions:**
+
+1. **Mohammedia Beaches:** Relax on the beautiful sandy beaches, such as Sablettes and Monica Beach, perfect for swimming, sunbathing, and water sports.
+2. **Parc des Villes Jumelées:** Explore this stunning park, featuring beautiful gardens, fountains, and walking trails. It's an ideal spot for a family picnic or a relaxing stroll.
+3. **Royal Golf Club of Mohammedia:** Tee off at this historic golf course, set amidst a picturesque landscape with ocean views.
+
+**Cultural Experiences:**
+
+1. **Local Market Visit:** Immerse yourself in the vibrant atmosphere of the local market, where you can find fresh seafood, traditional handicrafts, and souvenirs. 
+2. **Traditional Hammam Experience:** Unwind and rejuvenate at a local hammam, a quintessential Moroccan experience that will leave you feeling relaxed and refreshed.
+3. **Moroccan Cuisine:** Savor the flavors of traditional Moroccan dishes, such as Mechoui (roasted lamb), Pastilla (a savory-sweet pie), and fresh seafood, at local restaurants.
+
+**Recommended Activities:**
+
+1. **Walking Tour:** Take a leisurely walk along the Corniche, a scenic coastal promenade with stunning views of the ocean and beaches.
+2. **Water Sports:** Try your hand at surfing, paddleboarding, or jet skiing at one of the many water sports clubs along the beach.
+3. **Day Trip to Casablanca:** Visit the iconic Hassan II Mosque, the Old Medina, and other attractions in the nearby city of Casablanca (approximately 30 minutes away).
+
+**Insider Tips:**
+
+1. **Best Time to Visit:** Mohammedia is lovely year-round, but the best time to visit is during the spring (April-May) and autumn (September-October) for pleasant weather and fewer crowds.
+2. **Getting Around:** The city is easily walkable, but you can also use taxis or ride-hailing services to get around.
+3. **Language:** While Arabic and French are the primary languages spoken in Mohammedia, many locals also speak English, especially in tourist areas.
+
+**Customized Tours:**
+
+If you're interested in a guided tour, I'd be happy to arrange a customized itinerary that suits your interests and preferences. We can explore the city's hidden gems, visit local artisans, or even plan a day trip to nearby attractions.
+
+How would you like to spend your time in Mohammedia?

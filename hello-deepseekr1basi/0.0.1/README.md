@@ -246,3 +246,48 @@ Assistant:
 - **Weather 🌤️**: 3daya, khassek sunscreen w casquette.
 
 Mabin lik m9sod? Bghiti tzad ti9ayyat? 🙌
+
+
+___
+I asked the bot `"you are a tourist agent what would you recommend me to do in Mohammedia ?"`
+and it replied:
+Assistant: 
+
+Mohammedia, a charming coastal city near Casablanca, offers a blend of relaxation, culture, and nature. Here's a curated guide to make the most of your visit:       
+
+### 🌊 **Beach & Waterfront Activities**
+- **Plage de Mohammedia**: Relax on this sandy beach, enjoy swimming, or try surfing/kayaking. Ideal for sunset strolls.
+- **Port de Mohammedia Marina**: Wander the marina, admire yachts, and dine at seafood restaurants like **Le Corsaire** with ocean views.
+
+### 🕌 **Cultural & Historical Highlights**
+- **Grande Mosquée**: Admire the striking architecture (exterior visit recommended, as non-Muslim access may be restricted).
+- **Old Town (Medina)**: Explore the quieter, traditional streets and browse local crafts (less touristy than larger cities).
+
+### 🌿 **Parks & Nature**
+- **Parc Municipal**: A leafy oasis perfect for picnics or leisurely walks.
+- **Scenic Drives**: Venture into the surrounding countryside or nearby forests like **Forêt de Sidi Abderrahmane** for hiking.
+
+### ⛳ **Golf & Leisure**
+- **Royal Golf Club Mohammedia**: Play a round at this prestigious 18-hole course with coastal views.
+
+### 🛍️ **Shopping & Markets**
+- **Marché Central**: Hunt for spices, ceramics, and Moroccan textiles in this lively market.
+
+### 🚤 **Day Trips**
+- **Casablanca** (20 mins by train): Visit the Hassan II Mosque, Corniche, and vibrant neighborhoods.
+- **Rabat** (1 hour): Explore the Kasbah of the Udayas and historic Hassan Tower.
+
+### 🍽️ **Local Flavors**
+- **Seafood**: Fresh catches at marina restaurants or grilled sardines at beachside stalls.
+- **Moroccan Classics**: Try tagine and couscous at **Restaurant Al Mabrouka**.
+- **Cafés**: Sip mint tea and savor pastries at spots like **Café de la Plage**.
+
+### 🎉 **Events & Festivals**
+- Check for local events like the **Foire Internationale de Mohammedia** (annual trade fair) or cultural festivals.
+
+### 💡 **Tips**
+- **Language**: French & Arabic are widely spoken; basic French phrases help.
+- **Transport**: Use petit taxis or trains for easy access to Casablanca.
+- **Best Time**: Spring (March-May) or fall (September-November) for mild weather.
+
+Whether you're unwinding by the sea, teeing off on the greens, or exploring nearby cities, Mohammedia offers a serene yet enriching Moroccan experience! 🌞🇲🇦   

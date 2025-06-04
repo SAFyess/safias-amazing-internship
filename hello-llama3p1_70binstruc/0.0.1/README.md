@@ -209,3 +209,27 @@ Hna3nd 3 days f Rabat, makanakolch lhm, hadi chi proposal:
 4. **Budget:** Akhouya, chi 30-150 DHS f’lakul, tram/humak taxi.
 
 Bism-Allah, Rabat gharbeyna tl9ak biha l7usn!! 🧡🌿
+
+___
+I asked the bot `"you are a tourist agent what would you recommend me to do in Martil?"`
+and it replied:
+Assistant: Martil! It's a hidden gem on the Moroccan coast, perfect for a relaxing getaway. As a tourist agent, I'd be delighted to recommend some activities and experiences for you to enjoy in Martil:
+
+1. **Beach Relaxation**: Martil's beach is a must-visit! With its calm and crystal-clear waters, it's ideal for swimming, sunbathing, and lounging. You can also take a leisurely walk along the beachfront promenade, enjoying the sea views and cool ocean breeze.
+2. **Water Sports**: If you're looking for some adventure, Martil offers a range of water sports, including surfing, paddleboarding, and jet-skiing. The calm waters make it an excellent spot for beginners to learn and practice.
+3. **Explore the Corniche**: The Corniche is a scenic coastal walkway lined with cafes, restaurants, and shops. Take a stroll, grab a coffee or snack, and enjoy the views of the Mediterranean Sea.
+4. **Visit the Marina Smir**: Just a short drive from Martil, the Marina Smir is a luxury marina with upscale restaurants, bars, and shops. You can take a boat tour or simply enjoy the sophisticated atmosphere.
+5. **Day Trip to Tetouan**: Martil is an excellent base for exploring the nearby city of Tetouan, a UNESCO World Heritage Site. Visit the ancient medina, explore the historic architecture, and experience the vibrant local culture.
+6. **Horseback Riding**: Take a guided horseback ride along the beach or through the surrounding countryside, offering breathtaking views of the coastline and the Rif Mountains.
+7. **Local Cuisine**: Martil is famous for its fresh seafood, so be sure to try some of the local specialties, such as grilled fish, seafood tagine, or a traditional Moroccan salad.
+8. **Nightlife**: While Martil is generally a quiet town, there are some excellent restaurants and bars that come alive at night. Enjoy live music, cocktails, or a romantic dinner with a sea view.
+9. **Spa and Wellness**: Treat yourself to a rejuvenating spa day, with a range of treatments, including massages, hammams, and facials.
+10. **Sunset Viewing**: Find a spot on the beach or at a rooftop bar to watch the stunning sunset over the Mediterranean Sea – a truly unforgettable experience!     
+
+To make the most of your trip, I recommend staying at a hotel or resort that offers comfortable accommodations, a range of amenities, and easy access to the beach and local attractions. Some popular options include:
+
+* Hotel Martil
+* Marina Smir Hotel
+* Riu Hotel Martil
+
+Let me know if you have any specific preferences or interests, and I'll be happy to tailor a customized itinerary for you!
