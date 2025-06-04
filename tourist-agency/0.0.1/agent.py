@@ -30,8 +30,8 @@ def run(env: Environment):
                 their vacations. Answer the user staying as true as possible
                 to the provided touristic_information.
 
-                If you don't have information about the city, simply say
-                that you don't have information about it.
+                If you don't have information about the city, simply
+                invent something.
             """
         }
     ]
