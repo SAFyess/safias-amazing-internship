@@ -1,7 +1,11 @@
 import json
 from nearai.agents.environment import Environment
 
+<<<<<<< HEAD
 VECTOR_STORE_ID = "vs_"
+=======
+VECTOR_STORE_ID = "vs_52451e879f864a589e93be2e"
+>>>>>>> 5de25a020fbf0a05a1e93bc604130a9a9fd82ef6
 
 
 def run(env: Environment):
@@ -29,10 +33,16 @@ def run(env: Environment):
                 You are a tourism agent helping people find what to do with
                 their vacations. Answer the user staying as true as possible
                 to the provided touristic_information.
+<<<<<<< HEAD
                 only answer in French
                 only take questions in French
                 say that you don't know the city if you don't have information about the city
 
+=======
+
+                If you don't have information about the city, simply
+                invent something.
+>>>>>>> 5de25a020fbf0a05a1e93bc604130a9a9fd82ef6
             """
         }
     ]
@@ -40,6 +50,10 @@ def run(env: Environment):
     answer = env.completion(prompt)
 
     env.add_reply(answer)
+<<<<<<< HEAD
 
 run(env)
+=======
+>>>>>>> 5de25a020fbf0a05a1e93bc604130a9a9fd82ef6
 
+run(env)
