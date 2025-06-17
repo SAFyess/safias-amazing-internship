@@ -1,0 +1,16 @@
+{
+  "name": "hello-agent",
+  "version": "0.0.1",
+  "description": "A tourist agent",
+  "category": "agent",
+  "tags": [],
+  "details": {
+    "agent": {
+      "defaults": {
+        "model": "llama4scoutinstructbasic",
+        "model_provider": "fireworks"
+      }
+    }
+  },
+  "show_entry": true
+}
